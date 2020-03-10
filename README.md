@@ -1,4 +1,8 @@
 # management-aws-info-vuejs
+## 설명
+  * management-aws-info-vuejs : aws console 을 관리하는 서비스의 Frontend
+  * management-aws-info-server : Backend Server 역할
+
 
 ## Project setup
 ```
